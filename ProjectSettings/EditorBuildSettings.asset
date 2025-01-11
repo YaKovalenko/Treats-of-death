@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Cemetery Scene 1.unity
+    guid: 4bfde7f3526af0348a73bd0a812d4bb1
   m_configObjects: {}
